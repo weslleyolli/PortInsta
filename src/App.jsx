@@ -44,7 +44,7 @@ export default function MobileProfileApp() {
           </a>
 
           <a
-            href="https://www.tiktok.com/@_camilemelo?_t=ZM-8xi3TPJQ1we&_r=1"
+            href="https://www.tiktok.com/@_camilemelo?_t=ZM-8uep48x5x5D&_r=1"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full bg-white bg-opacity-20 backdrop-blur-sm text-white py-4 px-6 rounded-xl flex items-center justify-center space-x-3 hover:bg-opacity-30 transition-all duration-200 border border-white border-opacity-20"
